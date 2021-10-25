@@ -1,0 +1,6 @@
+.env
+state/
+*/__pycache__
+Makefile
+police_auction_watch.crontab
+scripts/
